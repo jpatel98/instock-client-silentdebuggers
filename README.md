@@ -15,7 +15,7 @@ A [backend-end server](https://github.com/jpatel98/instock-api-silentdebuggers) 
 To run the server side locally, clone the project
 
 ```bash
-  git clone git@github.com:freeHashBrown/instock-silentdebuggers.git
+  git clone git@github.com:jpatel98/instock-client-silentdebuggers.git
 ```
 
 Go to the project directory
